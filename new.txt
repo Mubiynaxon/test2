@@ -1,1 +1,3 @@
 bu birinchi local repositoryim
+ikkinchi commit
+salom
